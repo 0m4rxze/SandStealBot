@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sandsteal.aternos.me:22005",
+    "ip": "sandsteal.aternos.me",
     "port": 22005,
     "version": "",
     "try-creative": false
